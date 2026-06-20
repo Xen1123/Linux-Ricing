@@ -16,4 +16,4 @@
 
     - [The Fish Shell Config](/assets/Config/config.fish) (Goes In `/home/$USER/.config/fish`)
 
-    
+- Now Go To [Applications](./Applications.md)

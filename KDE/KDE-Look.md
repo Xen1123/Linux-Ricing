@@ -10,5 +10,6 @@
         - Right Click On Your Desktop `->` "Add or Manage Widgets" `->` "Get New" `->` "Download New Plasma Widgets" `->` Search "KDE Material You Colors" `->` Download It And Place It On Your Desktop, Then Configure It! (You Can Remove The Widget From Your Desktop When You're Done)
 
 - Install [Panel Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer#panel-colorizer)
+    - Follow The Instructions On GitHub To Install The Backend Application
     - Install The Widget With The Same Steps As Before, But With `Panel Colorizer` Name
         - Put The Widget In Your Taskbar, Then Right Click It And Select "Configure Panel Colorizer", Then Find The Style You Prefer!
