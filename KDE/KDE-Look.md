@@ -18,14 +18,17 @@
 - [The Fastfetch Setup](/assets/Config/config.jsonc)
 - Install The Fish Shell! (It Is Stable, Colorful, And Has Very Mature Autofilling)
     ## Debian
-        ```bash
+
+        ```
         sudo apt install fish -y
         ```
     ## Arch
+
         ```bash
         sudo pacman -S fish --noconfirm
         ```
     ## Fedora
+
         ```bash
         sudo dnf install fish -y
         ```
