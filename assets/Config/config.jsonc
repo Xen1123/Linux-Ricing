@@ -1,0 +1,23 @@
+# FASTFETCH CONFIG
+{
+  "": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "modules": [
+    "title",
+	"separator",
+	"os",
+	"uptime",
+	"host",
+	"disk",
+	"memory",
+	"packages",
+	"kernel",
+	"packages",
+	"terminal",
+	"cpu",
+	"gpu",
+	"localip",
+	"battery",
+	"break",
+	"colors"
+  ]
+}
