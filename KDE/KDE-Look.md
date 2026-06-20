@@ -19,9 +19,9 @@
 - Install The Fish Shell! (It Is Stable, Colorful, And Has Very Mature Autofilling)
     ## Debian
 
-        ```
+        ````
         sudo apt install fish -y
-        ```
+        ````
     ## Arch
 
         ```bash
