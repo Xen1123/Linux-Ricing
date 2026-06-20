@@ -2,7 +2,7 @@
 <h4 align=center>Please Make Sure You're On A 6.x Version Of KDE.</h4>
 
 ## The Complete Look
-<img src="../assets/KDE-Full.png" width="960"> <img src="../assets/KDE-Launcher.png" width="485">
+<img src="../assets/KDE/KDE-Full.png" width="960"> <img src="../assets/KDE/KDE-Launcher.png" width="485">
 
 ## How To Achieve It :
 - Install [KDE-Material-You-Colors](https://github.com/luisbocanegra/kde-material-you-colors#-kde-material-you-colors)
